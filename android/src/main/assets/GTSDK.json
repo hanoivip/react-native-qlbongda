@@ -1,0 +1,79 @@
+{
+  "googleFirebaseClientToken" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiYWIxYWQ4OTRiMjZmMTVlMGUyNWEzMjVjMTBjYmUwY2NlMWYxMDg2OTExNmQ1MGJkYzc0NWZjZjNkYjg0NzQyYWJkNGNlOGZjZjk3Y2Y3MzllMmNmMjVhOTJiMDUyZmZlM2E4NjcwYzdhMzY4ZGZiZjQzMmM0IiwiaWF0IjoxNTg0OTM1NTQyfQ.bN6clTTTP4CrWoSPjdRin4ngMx5t-Yo-oFG9cBz_odk",
+  "shopFrontID" : "",
+  "gameID" : "NSBD",
+  "language" : {
+    "languages" : [
+      "EN",
+      "VN",
+      "TH",
+      "ID",
+      "ZH-HANT",
+      "ZH-HANS"
+    ],
+    "current" : "VN",
+    "default" : "VN"
+  },
+  "supports" : {
+    "is_show" : "1",
+    "list" : [
+      {
+        "name" : "PA",
+        "line" : 1,
+        "index" : 1
+      },
+      {
+        "index" : 2,
+        "name" : "RA",
+        "line" : 2
+      }
+    ]
+  },
+  "paymentPrivateKey" : "c3oYbxr8z8qeiZE4",
+  "loginChannels" : {
+    "list" : [
+      {
+        "line" : 1,
+        "name" : "FB",
+        "index" : 1
+      },
+      {
+        "index" : 1,
+        "name" : "ZM",
+        "line" : 1
+      },
+      {
+        "line" : 1,
+        "index" : 2,
+        "name" : "ZL"
+      },
+      {
+        "line" : 3,
+        "name" : "GU",
+        "index" : 1
+      }
+    ]
+  },
+  "appsFlyerDevKey" : "pv6KrucqSm2ArrHdtPmx5a",
+  "clientToken" : "",
+  "gameVersion" : "1.0.0",
+  "secrectKey" : "0Se7NDUkdo0oKJMKS97f3fnFXnfiX2AKYaf66NTxNMzXAGN6XU",
+  "clientKey" : "",
+  "modules" : [
+    {
+      "zaloSecrectKey" : "PWCbYLYn20Ow1uE3NmLl",
+      "name" : "Zalo",
+      "zaloAppID" : "4228573756291697312"
+    },
+    {
+      "name" : "Facebook",
+      "facebookAppId" : "1901291936863308"
+    }
+  ],
+  "country" : {
+    "name" : "vietnam",
+    "code" : "VN"
+  },
+  "protectAccountCounter" : 3,
+  "paymentAppID" : "81"
+}

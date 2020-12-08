@@ -1,0 +1,2 @@
+﻿Assets/CapstonesRes/distribute/font_Tahoma/Common/Fonts/Tahoma.ttf|redirect|fonts_font_Tahoma|0|Redirect
+Assets/CapstonesRes/distribute/font_Tahoma/Common/Fonts/DistributeFontInfo.fi.txt|redirect|fonts_font_Tahoma|0|Redirect
